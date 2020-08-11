@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/React-Map-App/static/css/main.ec2dfb38.chunk.css",
+    "main.js": "/React-Map-App/static/js/main.bc2e4a02.chunk.js",
+    "main.js.map": "/React-Map-App/static/js/main.bc2e4a02.chunk.js.map",
+    "runtime-main.js": "/React-Map-App/static/js/runtime-main.935b284b.js",
+    "runtime-main.js.map": "/React-Map-App/static/js/runtime-main.935b284b.js.map",
+    "static/js/2.9cbc4326.chunk.js": "/React-Map-App/static/js/2.9cbc4326.chunk.js",
+    "static/js/2.9cbc4326.chunk.js.map": "/React-Map-App/static/js/2.9cbc4326.chunk.js.map",
+    "index.html": "/React-Map-App/index.html",
+    "precache-manifest.4f6d05555d1988676b11391ed2c3ee7d.js": "/React-Map-App/precache-manifest.4f6d05555d1988676b11391ed2c3ee7d.js",
+    "service-worker.js": "/React-Map-App/service-worker.js",
+    "static/css/main.ec2dfb38.chunk.css.map": "/React-Map-App/static/css/main.ec2dfb38.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.935b284b.js",
+    "static/js/2.9cbc4326.chunk.js",
+    "static/css/main.ec2dfb38.chunk.css",
+    "static/js/main.bc2e4a02.chunk.js"
+  ]
+}
